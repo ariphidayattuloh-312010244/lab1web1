@@ -19,34 +19,35 @@ Ini adalah tampilannya
 
 ![Gambar1](screenshot/ss3.png)
 
-##### 1. Membuat Paragraf
+1. Membuat Paragraf
 Selanjutnya buatlah beberapa paragraf sederhana sebagai berikut
 
 ![Gambar1](screenshot/ss4.png)
 
-###### Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya.
+ Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya.
 
 Dan hasilnya ada jarak antar paragraf
 
 ![Gambar1](screenshot/ss5.png)
 
-####### Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya.
+ Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya.
 
 hasilnya kalimat rata ke kanan
 
 ![Gambar1](screenshot/ss6.png)
 
-######## Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser.
+Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser.
 Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, dan center) untuk melihat
 perbedaan lainnya.
 
-######### 2. Menambahkan Judul
+2. Menambahkan Judul
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6.
 Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum
 paragraf kedua.
 
 ![Gambar1](screenshot/ss8.png)
 
-########## Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
+
+Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
 
 ![Gambar1](screenshot/ss9.png)
