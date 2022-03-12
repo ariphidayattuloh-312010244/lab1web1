@@ -4,4 +4,4 @@
 ###Membuat Paragraf
 KODE TAG UNTUK PARAGRAF ADALAH '<P>'
 Ini adalah tampilannya
-![img]screenshot/ss1.png
+![Gambar1](screenshot/ss1.png)
