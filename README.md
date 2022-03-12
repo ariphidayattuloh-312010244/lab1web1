@@ -34,6 +34,8 @@ Dan hasilnya ada jarak antar paragraf
 ![Gambar1](screenshot/ss5.png)
 
  Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya.
+ 
+![Gambar1](screenshot/ss6.png)
 
 hasilnya kalimat rata ke kanan
 
