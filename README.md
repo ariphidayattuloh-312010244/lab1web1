@@ -7,10 +7,13 @@ Kelas : TI.20.B.1
 
 ## Langkah-langkah Praktikum
 Persiapan membuka VSCode dan Browser.
+
 ![Gambar1](screenshot/ss1.1.png)
 
 ### Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen
 HTML.
+
+
 Ini adalah tampilannya
 
 ![Gambar1](screenshot/ss2.png)
@@ -34,7 +37,7 @@ Dan hasilnya ada jarak antar paragraf
 
 hasilnya kalimat rata ke kanan
 
-![Gambar1](screenshot/ss6.png)
+![Gambar1](screenshot/ss7.png)
 
 Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser.
 Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, dan center) untuk melihat
@@ -59,6 +62,7 @@ penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.
 ![Gambar1](screenshot/ss10.png)
 
 4. Menyisipkan Gambar
+
 Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian
 simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan
 gambar dari website external.
@@ -84,3 +88,7 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
 dan ini hasilnya setelah di refresh
 
 ![Gambar1](screenshot/ss15.png)
+
+
+sekian dari saya 
+-Arip hidayattuloh-
