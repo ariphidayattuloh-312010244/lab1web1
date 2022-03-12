@@ -51,3 +51,36 @@ paragraf kedua.
 Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
 
 ![Gambar1](screenshot/ss9.png)
+
+3. Memformat teks
+Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada
+penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.
+
+![Gambar1](screenshot/ss10.png)
+
+4. Menyisipkan Gambar
+Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian
+simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan
+gambar dari website external.
+
+![Gambar1](screenshot/ss11.png)
+
+
+Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran
+gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
+disini saya menggunakan "widht= 100"
+
+![Gambar1](screenshot/ss12.png)
+
+Simpan perubahannya, kemudian refresh browser.
+
+![Gambar1](screenshot/ss13.png)
+
+5. Menambahkan Hyperlink
+Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
+
+![Gambar1](screenshot/ss14.png)
+
+dan ini hasilnya setelah di refresh
+
+![Gambar1](screenshot/ss15.png)
