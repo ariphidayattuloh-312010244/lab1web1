@@ -92,7 +92,7 @@ dan ini hasilnya setelah di refresh
 ![Gambar1](screenshot/ss15.png)
 
 
-##Jawab Pertanyaan Berikut
+Jawab Pertanyaan Berikut
 
 1. Lakukan perubahan pada code sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 jawaban
@@ -108,6 +108,7 @@ tag <br> melompati satu line cocok untuk memulai paragraf baru sedangkan tag <p>
 jawaban
 
 Perbedaan atribut title dan alt yaitu pada gambar yang dihasilkan. Ketika gambar berhasil ditampilkan maka akan terlihat sebuah title, sedangkan jika gambar gagal ditampilkan maka akan menampilkan teks dalam atribut alt tersebut
+
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 jawaban
 
@@ -117,8 +118,11 @@ menurut saya lebih baik satu attribut saja agar aspek ratio gambar asli terjaga
 jawaban
 
 Nilai _blank akan membuka link/halaman di tab baru.
+
 Nilai _self akan membuka link/halaman di tab saat ini.
+
 Nilai _top membuka link/halaman dan membatalkan semua frame.
+
 Nilai _parent membuka link/halaman pada parent frame.
 
 
