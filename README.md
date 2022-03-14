@@ -93,30 +93,28 @@ dan ini hasilnya setelah di refresh
 
 Pertanyaan Soal
 
-1. `Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?`
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 
 Jawab: 
-`Kadang saya salah dalam penulisan tag.Tapi masih bisa di tampilkan ke Browser tampilan di websitenya akan menjadi berantakan bila kita ada kesalahan. Jadi, saat kita menambahkan beberapa script HTML dan saat scriptnya sudah panjang sekali sampai puluhan baris biasanya. Yang menjadi kebiasaannya adalah sering lupa dengan aturan penulisan tag HTMLnya. Khususnya yang berpasangan seperti tag “<buka></tutup>“. Biasanya ada yang menulis script tanda bukanya tapi lupa tag tutupnya sehingga semua pondasi jadi berubah`
+Kadang saya salah dalam penulisan tag.Tapi masih bisa di tampilkan ke Browser tampilan di websitenya akan menjadi berantakan bila kita ada kesalahan. Jadi, saat kita menambahkan beberapa script HTML dan saat scriptnya sudah panjang sekali sampai puluhan baris biasanya. Yang menjadi kebiasaannya adalah sering lupa dengan aturan penulisan tag HTMLnya. Khususnya yang berpasangan seperti tag `“<buka></tutup>“` Biasanya ada yang menulis script tanda bukanya tapi lupa tag tutupnya sehingga semua pondasi jadi berubah
 
-2. `Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!`
+2. Apa perbedaan dari tag `<p>` dengan tag `<br>`, berikan penjelasannya!
 
 Jawab: 
-`Sekilas fungsi tag <p> dan <br/> terkesan sama, yaitu untuk memulai baris baru atau bisa diibratkan sebagai fungsi enter pada keyboard, namun sebenarnya kedua tag html ini memiliki fungsi dan intruksi yang berbeda pada perintah html.`
-`Tag <p>`
-`Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, antara baris atau paragraf terbentuk jarak. Tag ini merupakan tag yang berpasangan, dimulai dengan tag pembuka <p> dan diakhiri dengan tag penutup </p> Tag <br/>`
-`Tag <br/> tag ini adalah tag tunggal tanpa diawali tag pembuka dan diakhiri tag penutup. Ia berdiri sendiri. Tag <br/> dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru. Apa beda nya dengan tag paragraf .... ?, bedanya adalah baris baru yang dihasilkan tanpa memberi jarak dengan baris diatasnya. Jadi perbedaan yang mencolok dari kedua tag ini adalah pada jarak yang terbentuk. Kesimpulannya jika hanya ingin membuat baris baru tanpa jarak gunakan tag <br/> , tapi jika sobat ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka bungkuslah paragraf baru tersebut dengan sepasang tag <p> dan </p>`
+Sekilas fungsi tag `<p>` dan `<br/>` terkesan sama, yaitu untuk memulai baris baru atau bisa diibratkan sebagai fungsi enter pada keyboard, namun sebenarnya kedua tag html ini memiliki fungsi dan intruksi yang berbeda pada perintah html.`Tag <p>` Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, antara baris atau paragraf terbentuk jarak. Tag ini merupakan tag yang berpasangan, dimulai dengan tag pembuka `<p>` dan diakhiri dengan tag penutup `</p>` Tag `<br/>`
+Tag `<br/>` tag ini adalah tag tunggal tanpa diawali tag pembuka dan diakhiri tag penutup. Ia berdiri sendiri. Tag `<br/>` dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru. Apa beda nya dengan tag paragraf .... ?, bedanya adalah baris baru yang dihasilkan tanpa memberi jarak dengan baris diatasnya. Jadi perbedaan yang mencolok dari kedua tag ini adalah pada jarak yang terbentuk. Kesimpulannya jika hanya ingin membuat baris baru tanpa jarak gunakan tag `<br/>` , tapi jika sobat ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka bungkuslah paragraf baru tersebut dengan sepasang tag `<p>` dan `</p>`
 
-3. `Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!`
+3. Apa perbedaan atribut title dan alt pada tag `<img>`, berikan penjelasannya!
 
 Jawab:
-`Perbedaan yaitu pada gambar yang di tampilkan pada browser Title Parameter title pada tag <img> berfungsi sebagai memberikan judul pada gambar dan judul / title akan tampil jika cursor kita arahkan pada gambar`
+Perbedaan yaitu pada gambar yang di tampilkan pada browser Title Parameter title pada tag `<img>` berfungsi sebagai memberikan judul pada gambar dan judul / title akan tampil jika cursor kita arahkan pada gambar
 
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 
 jawaban:
 Menurut saya agar tampilan gambar proporsional sebaiknya menggunakan satu atribut.Agaraspecratio gambar asli tetap terjaga.
 
-5. `Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?.`
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( `_blank`, `_self`, `_top`, `_parent` ), apa yang terjadi pada masing-masing nilai antribut tersebut?.`
 
 jawaban:
 
